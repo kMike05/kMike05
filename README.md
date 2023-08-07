@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on  a Zoo Management System<br>👯 I’m looking to collaborate on <br>🤝 I’m looking for help with<br>🌱 I’m currently learning Python<br>💬 Ask me about bootstrap<br>⚡ Fun fact i think I'm funny
+🔭 I’m currently working on  a Zoo Management System<br>🤝 I’m looking for help with React<br>🌱 I’m currently learning Python<br>💬 Ask me about bootstrap<br>⚡ Fun fact i think I'm funny
 
 
 # 💻 Tech Stack:
